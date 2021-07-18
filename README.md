@@ -1,6 +1,6 @@
 # JS_raycaster
 
-This source code, was written by following the series of tutorials published by [**Javier Muñiz**](https://github.com/javiermunizyt), through his [**Youtube Channel**](https://www.youtube.com/channel/UCS9KSwTM3FO2Ovv83W98GTg) (spoken in Spanish), through his *Javascript** and **HTML* [*Raycasting Tutorial Series*](https://www.youtube.com/watch?v=8XnQq28TRZY&list=PLmD1VB8QabXxMe8khFFnePiJnmdJn8SuR).
+This source code, was written by following the series of tutorials published by [**Javier Muñiz**](https://github.com/javiermunizyt), through his [**Youtube Channel**](https://www.youtube.com/channel/UCS9KSwTM3FO2Ovv83W98GTg) (spoken in Spanish), through his *Javascript* and *HTML* [*Raycasting Tutorial Series*](https://www.youtube.com/watch?v=8XnQq28TRZY&list=PLmD1VB8QabXxMe8khFFnePiJnmdJn8SuR).
 
 I tried to follow his tutorial series the best I could. However, I used **Visual Studio Code** for coding, I used [**Prettier**](https://prettier.io/) for a way much better formatted code and understanding of it, appart from translating every single variable, function, class and element to English, since is the best language for international coding matters. Finally, I added a lot of comments, based on my understanding about the theory of the tutorial series.
 
